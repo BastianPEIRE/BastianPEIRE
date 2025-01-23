@@ -20,4 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nomad/nomad-original.svg" height="30" alt="nomad logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/consul/consul-original.svg" height="30" alt="consul logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
 </div>
